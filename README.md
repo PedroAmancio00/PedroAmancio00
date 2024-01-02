@@ -1,5 +1,5 @@
 ### Hello, my name is Pedro Oliveira Amâncio, I'm a fullstack software developer. Here are some of the stack i use.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=dotnet,java,python,nodejs,nest,angular,react,js,html,css))](https://skillicons.dev)
 <!--
 **PedroAmancio00/PedroAmancio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
