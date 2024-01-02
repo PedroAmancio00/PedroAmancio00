@@ -4,7 +4,7 @@
 
 ### I have five years working as freelancer and three years working with contracts want to contact me?
 
-### [WhatsApp](https://wa.me/+5531936192452).   [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pedroamanciodeveloper@gmail.com).  [![My Skills](https://skillicons.dev/icons?i=dotnet,java,python,nodejs,nest,angular,react,js,html,css)](https://skillicons.dev)[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pedroamanciodeveloper@gmail.com).
+### [WhatsApp](https://wa.me/+5531936192452).   [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pedroamanciodeveloper@gmail.com).
 
 
 ### Want to see some code of mine? Look Below:
