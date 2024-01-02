@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Pedro Oliveira Amâncio, I'm a fullstack software developer. Here are some of the stack i use.
 
 <!--
 **PedroAmancio00/PedroAmancio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
