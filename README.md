@@ -4,7 +4,7 @@
 
 ### I have five years working as freelancer and three years working with contracts wanna contact me?
 
-### [GitHub Pages](https://pages.github.com/).
+### [WhatsApp](https://wa.me/+5531936192452).
 
 
 ### Want to see some code of mine? Look Below:
