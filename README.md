@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet,java,python,nodejs,nest,angular,react,js,html,css)](https://skillicons.dev)
 
 
-### I have five years working as freelancer and three years working with contracts wanna contact me?
+### I have five years working as freelancer and three years working with contracts want to contact me?
 
 ### [WhatsApp](https://wa.me/+5531936192452).
 
