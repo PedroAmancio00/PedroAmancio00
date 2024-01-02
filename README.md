@@ -4,7 +4,7 @@
 
 ### I have five years working as freelancer and three years working with contracts wanna contact me?
 
-### ![alt text](http://url/to/img.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### ![alt text](http://url/to/img.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
 
 
 ### Want to see some code of mine? Look Below:
