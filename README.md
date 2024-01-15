@@ -9,13 +9,13 @@
 
 ### Want to see some code of mine? Look Below:
 
-### Dotnet user authentication with tests https://github.com/PedroAmancio00/pedro-arke-test
+### Dotnet user authentication with tests (PostgresSql) https://github.com/PedroAmancio00/pedro-arke-test
 
 ### React store with database mocked https://github.com/PedroAmancio00/pedro-aec-test
 
 ### Angular front end for orders https://github.com/PedroAmancio00/subliminator-test-app
 
-### Symfony back end for orders https://github.com/PedroAmancio00/subliminator-test-app-back
+### Symfony back end for orders (MySql) https://github.com/PedroAmancio00/subliminator-test-app-back
 
 
 
