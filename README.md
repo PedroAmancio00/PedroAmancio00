@@ -4,7 +4,7 @@
 
 ### I´ve worked since 2018 as freelancer and since 2019 as an employee want to contact me?
 
-### [WhatsApp](https://wa.me/+5531936192452).   [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pedroamanciodeveloper@gmail.com).
+### [WhatsApp](https://wa.me/+5531995348353).   [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pedroamanciodeveloper@gmail.com).
 
 
 ### Want to see some code of mine? Look Below:
