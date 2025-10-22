@@ -1,5 +1,5 @@
 ### Hello, my name is Pedro Oliveira Amâncio, I'm a fullstack software developer with experience as Teach Lead. Here are some of the stack i use.
-[![My Skills](https://skillicons.dev/icons?i=dotnet,java,python,nodejs,nest,angular,react,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,angular,python,java,nodejs,nest,js,ts,html,css)](https://skillicons.dev)
 
 
 ### I´ve worked since 2018 as freelancer and since 2019 as an employee want to contact me?
