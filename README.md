@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet,java,python,nodejs,nest,angular,react,js,html,css)](https://skillicons.dev)
 
 
-### I have five years working as freelancer and three years working with contracts want to contact me?
+### I´ve worked since 2018 as freelancer and since 2019 as an employee want to contact me?
 
 ### [WhatsApp](https://wa.me/+5531936192452).   [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=pedroamanciodeveloper@gmail.com).
 
